@@ -71,7 +71,8 @@ tmp/
 *.pid.lock
 
 # Dataset directory
-dataset/
+dataset/*
+!dataset/.gitkeep
 
 # Python
 __pycache__/
