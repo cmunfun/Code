@@ -1,4 +1,4 @@
-CREATE TABLE my_table (
+CREATE TABLE data_science.appstore_dataset (
   `app_id` VARCHAR(48),
   `app_name` VARCHAR(75),
   `appstore_url` VARCHAR(142),
